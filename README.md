@@ -5,7 +5,7 @@
 
 To complete this test, you will need to write a simple [React](https://facebook.github.io/react/) based web app, and provide us the source files to be built.
 
-The purpose of this challenge is to assess your **skills and approach to composing a simple web app** given a screem and a json feed. We will also assess the **generated HTML, CSS, and JS** output.
+The purpose of this challenge is to assess your **skills and approach to composing a simple web app** given a screen and a json feed. We will also assess the **generated HTML, CSS, and JS** output.
 
 
 ## The Challenge
@@ -19,9 +19,13 @@ If needed, please include a `README` with setup instructions.
 Refer to the [screens/home.jpg](./screens/home.jpg) screen.
 
 You will need to build one page site that display staff information to the client.
+the staff information will come from the [data/staff.json](./data/staff.json) file supplied,
+and the avatars urls are a property inside each staff row. 
 
 the staff json contain 100 rows but you need to display only 6 random rows,
 exactly as the screen shows.
+
+The font used in this page is [Roboto](https://fonts.google.com/specimen/Roboto).
 
 The page should also be usable on mobile and tablet devices.
 
@@ -45,3 +49,6 @@ We prefer it if you did not use any third party CSS frameworks.
 ## Other Notes
 
 Please send through any other code or projects that you're proud of and would like to share with us.
+
+Feel free to ask anything you want.
+Good luck
